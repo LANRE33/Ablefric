@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Ablefric/static/css/main.3cd26427.css",
+    "main.js": "/Ablefric/static/js/main.4236ceed.js",
+    "static/js/787.75c85b97.chunk.js": "/Ablefric/static/js/787.75c85b97.chunk.js",
+    "static/media/background1.png": "/Ablefric/static/media/background1.d4a3ca50e8d4017e1730.png",
+    "static/media/kin.png": "/Ablefric/static/media/kin.f6caa83d8b9b47dc4910.png",
+    "static/media/3.png": "/Ablefric/static/media/3.ad10c9ad4bb382dd8643.png",
+    "static/media/2.png": "/Ablefric/static/media/2.d8bec3ce655f3b10bb23.png",
+    "static/media/1.png": "/Ablefric/static/media/1.919fa036bdbdc27a025d.png",
+    "static/media/logo-nih-aou2.png": "/Ablefric/static/media/logo-nih-aou2.af163ad73eae776404f2.png",
+    "static/media/img3.jfif": "/Ablefric/static/media/img3.8ab0f775787180ceca7b.jfif",
+    "static/media/img1.jfif": "/Ablefric/static/media/img1.1a7e91e6fa9de1210a0b.jfif",
+    "static/media/img2.jfif": "/Ablefric/static/media/img2.e2f569e095cb7c7a1daf.jfif",
+    "index.html": "/Ablefric/index.html",
+    "main.3cd26427.css.map": "/Ablefric/static/css/main.3cd26427.css.map",
+    "main.4236ceed.js.map": "/Ablefric/static/js/main.4236ceed.js.map",
+    "787.75c85b97.chunk.js.map": "/Ablefric/static/js/787.75c85b97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cd26427.css",
+    "static/js/main.4236ceed.js"
+  ]
+}
