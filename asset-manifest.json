@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ablefric/static/css/main.3cd26427.css",
-    "main.js": "/Ablefric/static/js/main.83e4d590.js",
+    "main.js": "/Ablefric/static/js/main.9b68fcc4.js",
     "static/js/787.75c85b97.chunk.js": "/Ablefric/static/js/787.75c85b97.chunk.js",
     "static/media/background1.png": "/Ablefric/static/media/background1.d4a3ca50e8d4017e1730.png",
     "static/media/kin.png": "/Ablefric/static/media/kin.f6caa83d8b9b47dc4910.png",
@@ -14,11 +14,11 @@
     "static/media/img2.jfif": "/Ablefric/static/media/img2.e2f569e095cb7c7a1daf.jfif",
     "index.html": "/Ablefric/index.html",
     "main.3cd26427.css.map": "/Ablefric/static/css/main.3cd26427.css.map",
-    "main.83e4d590.js.map": "/Ablefric/static/js/main.83e4d590.js.map",
+    "main.9b68fcc4.js.map": "/Ablefric/static/js/main.9b68fcc4.js.map",
     "787.75c85b97.chunk.js.map": "/Ablefric/static/js/787.75c85b97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cd26427.css",
-    "static/js/main.83e4d590.js"
+    "static/js/main.9b68fcc4.js"
   ]
 }
